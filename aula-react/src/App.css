@@ -1,0 +1,10 @@
+.titulo {
+  color: blue;
+  background-color: blueviolet;
+}
+
+.paragrafo {
+  color: coral;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14pt;
+}
